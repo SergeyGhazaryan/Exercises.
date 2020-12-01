@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;  
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #ccc;
+}
+
+.container {
+  padding: 2px;
+  display: flex;
+  margin-top: 3px;
+  border-bottom: 1px solid #ccc;
+}
+
+img {
+  height: 60px;
+  width: 60px;
+  display: flex;
+  border-radius: 50%;
+}
+
+h4, p {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+p {
+  margin-top: -20px;
+  color: #ccc;
+}
