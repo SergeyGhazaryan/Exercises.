@@ -1,4 +1,4 @@
-* {
+﻿* {
   box-sizing: border-box;  
 }
 
@@ -9,7 +9,7 @@
 }
 
 .container {
-  padding: 2px;
+  padding-top: 5px;
   display: flex;
   margin-top: 3px;
   border-bottom: 1px solid #ccc;
